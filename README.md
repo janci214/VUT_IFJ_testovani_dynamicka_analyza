@@ -1,0 +1,1 @@
+# VUT_IFJ_testovani_dynamicka_analyza
